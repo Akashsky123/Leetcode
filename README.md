@@ -7,6 +7,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ All Leetcode Question
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
@@ -29,4 +31,16 @@ All Leetcode Question
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
