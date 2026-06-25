@@ -55,4 +55,12 @@ All Leetcode Question
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Akashsky123/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Akashsky123/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
