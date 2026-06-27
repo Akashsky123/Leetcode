@@ -24,6 +24,7 @@ All Leetcode Question
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akashsky123/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -72,8 +73,13 @@ All Leetcode Question
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akashsky123/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akashsky123/Leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
