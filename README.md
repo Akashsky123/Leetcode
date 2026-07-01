@@ -26,6 +26,7 @@ All Leetcode Question
 | [0015-3sum](https://github.com/Akashsky123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashsky123/Leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Akashsky123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
@@ -38,6 +39,7 @@ All Leetcode Question
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akashsky123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -93,4 +95,8 @@ All Leetcode Question
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akashsky123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
