@@ -10,6 +10,7 @@ All Leetcode Question
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Akashsky123/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsky123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -20,6 +21,7 @@ All Leetcode Question
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Akashsky123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +115,7 @@ All Leetcode Question
 | [0018-4sum](https://github.com/Akashsky123/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Akashsky123/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
