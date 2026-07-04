@@ -17,6 +17,7 @@ All Leetcode Question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashsky123/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0125-valid-palindrome](https://github.com/Akashsky123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
@@ -96,6 +97,7 @@ All Leetcode Question
 | [0018-4sum](https://github.com/Akashsky123/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akashsky123/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Akashsky123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
