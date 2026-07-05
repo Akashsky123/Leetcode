@@ -36,6 +36,7 @@ All Leetcode Question
 | [0015-3sum](https://github.com/Akashsky123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashsky123/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akashsky123/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Akashsky123/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Akashsky123/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -85,6 +86,7 @@ All Leetcode Question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
@@ -102,6 +104,7 @@ All Leetcode Question
 | [0015-3sum](https://github.com/Akashsky123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashsky123/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akashsky123/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Akashsky123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -141,4 +144,12 @@ All Leetcode Question
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
