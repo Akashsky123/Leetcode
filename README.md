@@ -53,6 +53,7 @@ All Leetcode Question
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
@@ -145,6 +146,7 @@ All Leetcode Question
 | [0540-single-element-in-a-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sliding Window
 |  |
 | ------- |
