@@ -1,40 +1,25 @@
 class Solution {
 public:
-    bool canDistribute(vector<int>& candies, long long k, long long mid) {
-        long long count = 0;
-
-        for (int i = 0; i < candies.size(); i++) {
-            count += candies[i] / mid;
-
-            if (count >= k) return true; // early exit
-        }
-
-        return false;
-    }
-
     int maximumCandies(vector<int>& candies, long long k) {
-        long long low = 1;
-        long long high = 0;
+        long long left = 1, right = *max_element(candies.begin(), candies.end());
+        int result = 0;
 
-        for (int c : candies) {
-            high = max(high, (long long)c);
-        }
+        while (left <= right) {
+            long long mid = left + (right - left) / 2;
+            long long children_count = 0;
 
-        long long ans = 0;
+            for (int pile : candies) {
+                children_count += pile / mid;
+            }
 
-        while (low <= high) {
-            long long mid = low + (high - low) / 2;
-
-            if (mid == 0) break; // safety
-
-            if (canDistribute(candies, k, mid)) {
-                ans = mid;
-                low = mid + 1;  // maximize
+            if (children_count >= k) {
+                result = mid;
+                left = mid + 1;
             } else {
-                high = mid - 1;
+                right = mid - 1;
             }
         }
 
-        return (int)ans;
+        return result;
     }
 };
