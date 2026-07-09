@@ -31,6 +31,7 @@ All Leetcode Question
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akashsky123/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akashsky123/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Akashsky123/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Akashsky123/Leetcode/tree/master/0015-3sum) |
@@ -68,6 +69,7 @@ All Leetcode Question
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akashsky123/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Tree
@@ -136,6 +138,7 @@ All Leetcode Question
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akashsky123/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Akashsky123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
