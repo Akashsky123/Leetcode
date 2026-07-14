@@ -8,6 +8,7 @@ All Leetcode Question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashsky123/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Akashsky123/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Akashsky123/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
@@ -21,6 +22,7 @@ All Leetcode Question
 | [0014-longest-common-prefix](https://github.com/Akashsky123/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/Akashsky123/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Akashsky123/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Akashsky123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
@@ -44,6 +46,7 @@ All Leetcode Question
 | [0031-next-permutation](https://github.com/Akashsky123/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Akashsky123/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Akashsky123/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Akashsky123/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -142,6 +145,7 @@ All Leetcode Question
 | ------- |
 | [0015-3sum](https://github.com/Akashsky123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashsky123/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Akashsky123/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Akashsky123/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
