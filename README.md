@@ -29,6 +29,7 @@ All Leetcode Question
 | [0151-reverse-words-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Akashsky123/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Akashsky123/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Akashsky123/Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akashsky123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -115,6 +116,7 @@ All Leetcode Question
 | ------- |
 | [0050-powx-n](https://github.com/Akashsky123/Leetcode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/Akashsky123/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0415-add-strings](https://github.com/Akashsky123/Leetcode/tree/master/0415-add-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -194,6 +196,7 @@ All Leetcode Question
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Akashsky123/Leetcode/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akashsky123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
