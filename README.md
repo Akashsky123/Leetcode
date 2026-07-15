@@ -37,6 +37,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Akashsky123/Leetcode/tree/master/0046-permutations) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ All Leetcode Question
 | [0031-next-permutation](https://github.com/Akashsky123/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Akashsky123/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Akashsky123/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Akashsky123/Leetcode/tree/master/0056-merge-intervals) |
