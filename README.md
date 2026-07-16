@@ -8,6 +8,7 @@ All Leetcode Question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashsky123/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Akashsky123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Akashsky123/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Akashsky123/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Akashsky123/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -37,6 +38,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashsky123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Akashsky123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Akashsky123/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashsky123/Leetcode/tree/master/0047-permutations-ii) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
@@ -50,6 +52,7 @@ All Leetcode Question
 | [0018-4sum](https://github.com/Akashsky123/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akashsky123/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Akashsky123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Akashsky123/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashsky123/Leetcode/tree/master/0047-permutations-ii) |
@@ -78,6 +81,7 @@ All Leetcode Question
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Akashsky123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Akashsky123/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashsky123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
