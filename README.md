@@ -27,6 +27,7 @@ All Leetcode Question
 | [0049-group-anagrams](https://github.com/Akashsky123/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Akashsky123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Akashsky123/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Akashsky123/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
@@ -43,6 +44,7 @@ All Leetcode Question
 | [0040-combination-sum-ii](https://github.com/Akashsky123/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akashsky123/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashsky123/Leetcode/tree/master/0047-permutations-ii) |
+| [0131-palindrome-partitioning](https://github.com/Akashsky123/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 ## Array
 |  |
@@ -122,6 +124,7 @@ All Leetcode Question
 | [0044-wildcard-matching](https://github.com/Akashsky123/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/Akashsky123/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0131-palindrome-partitioning](https://github.com/Akashsky123/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Math
 |  |
