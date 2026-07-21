@@ -76,6 +76,7 @@ All Leetcode Question
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akashsky123/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0312-burst-balloons](https://github.com/Akashsky123/Leetcode/tree/master/0312-burst-balloons) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsky123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -135,6 +136,7 @@ All Leetcode Question
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/Akashsky123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Akashsky123/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0312-burst-balloons](https://github.com/Akashsky123/Leetcode/tree/master/0312-burst-balloons) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Math
 |  |
