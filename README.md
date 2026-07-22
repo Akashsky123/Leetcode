@@ -47,6 +47,7 @@ All Leetcode Question
 | [0046-permutations](https://github.com/Akashsky123/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashsky123/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Akashsky123/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Akashsky123/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Akashsky123/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 ## Array
@@ -72,6 +73,7 @@ All Leetcode Question
 | [0073-set-matrix-zeroes](https://github.com/Akashsky123/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashsky123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Akashsky123/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/Akashsky123/Leetcode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akashsky123/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -208,6 +210,7 @@ All Leetcode Question
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Akashsky123/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
