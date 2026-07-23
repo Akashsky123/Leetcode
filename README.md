@@ -154,6 +154,7 @@ All Leetcode Question
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akashsky123/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Akashsky123/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ All Leetcode Question
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
