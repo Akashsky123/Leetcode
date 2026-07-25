@@ -14,6 +14,7 @@ All Leetcode Question
 | [0076-minimum-window-substring](https://github.com/Akashsky123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Akashsky123/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akashsky123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akashsky123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsky123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@ All Leetcode Question
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Akashsky123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akashsky123/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akashsky123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Akashsky123/Leetcode/tree/master/0443-string-compression) |
@@ -244,6 +246,7 @@ All Leetcode Question
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akashsky123/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Akashsky123/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akashsky123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
