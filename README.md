@@ -227,6 +227,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/Akashsky123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
@@ -253,6 +254,7 @@ All Leetcode Question
 | [0141-linked-list-cycle](https://github.com/Akashsky123/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akashsky123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
@@ -282,4 +284,8 @@ All Leetcode Question
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Akashsky123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
