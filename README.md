@@ -115,6 +115,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akashsky123/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Akashsky123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Akashsky123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
@@ -257,6 +258,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akashsky123/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Akashsky123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Akashsky123/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Akashsky123/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Akashsky123/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -271,11 +273,13 @@ All Leetcode Question
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akashsky123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akashsky123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
