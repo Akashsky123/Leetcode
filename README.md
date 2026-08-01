@@ -178,6 +178,7 @@ All Leetcode Question
 | [0142-linked-list-cycle-ii](https://github.com/Akashsky123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Akashsky123/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Akashsky123/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -198,6 +199,7 @@ All Leetcode Question
 | [0075-sort-colors](https://github.com/Akashsky123/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -269,6 +271,7 @@ All Leetcode Question
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -290,8 +293,13 @@ All Leetcode Question
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Akashsky123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
