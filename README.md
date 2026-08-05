@@ -93,6 +93,7 @@ All Leetcode Question
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2596-check-knight-tour-configuration](https://github.com/Akashsky123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -150,6 +151,7 @@ All Leetcode Question
 | [0131-palindrome-partitioning](https://github.com/Akashsky123/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0312-burst-balloons](https://github.com/Akashsky123/Leetcode/tree/master/0312-burst-balloons) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Math
 |  |
@@ -206,6 +208,7 @@ All Leetcode Question
 | [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Prefix Sum
 |  |
 | ------- |
