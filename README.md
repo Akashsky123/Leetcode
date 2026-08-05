@@ -95,6 +95,7 @@ All Leetcode Question
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2596-check-knight-tour-configuration](https://github.com/Akashsky123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -153,6 +154,7 @@ All Leetcode Question
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +190,7 @@ All Leetcode Question
 | [0443-string-compression](https://github.com/Akashsky123/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Akashsky123/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +212,7 @@ All Leetcode Question
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -226,6 +230,7 @@ All Leetcode Question
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sliding Window
 |  |
@@ -239,6 +244,7 @@ All Leetcode Question
 | [0078-subsets](https://github.com/Akashsky123/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akashsky123/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,4 +322,16 @@ All Leetcode Question
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
