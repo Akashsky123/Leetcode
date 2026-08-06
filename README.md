@@ -256,6 +256,7 @@ All Leetcode Question
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akashsky123/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/Akashsky123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akashsky123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -313,6 +314,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Akashsky123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/Akashsky123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Akashsky123/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
@@ -334,4 +336,8 @@ All Leetcode Question
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Akashsky123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
