@@ -18,6 +18,7 @@ All Leetcode Question
 | [0142-linked-list-cycle-ii](https://github.com/Akashsky123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akashsky123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akashsky123/Leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Akashsky123/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsky123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Akashsky123/Leetcode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -87,6 +88,7 @@ All Leetcode Question
 | [0238-product-of-array-except-self](https://github.com/Akashsky123/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Akashsky123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Akashsky123/Leetcode/tree/master/0312-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/Akashsky123/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsky123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -258,12 +260,14 @@ All Leetcode Question
 | [0084-largest-rectangle-in-histogram](https://github.com/Akashsky123/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Akashsky123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Akashsky123/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Akashsky123/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akashsky123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akashsky123/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Akashsky123/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
