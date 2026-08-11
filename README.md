@@ -101,6 +101,7 @@ All Leetcode Question
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Akashsky123/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2596-check-knight-tour-configuration](https://github.com/Akashsky123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -277,6 +278,7 @@ All Leetcode Question
 | ------- |
 | [0415-add-strings](https://github.com/Akashsky123/Leetcode/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akashsky123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Akashsky123/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Akashsky123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -353,4 +355,5 @@ All Leetcode Question
 | [0225-implement-stack-using-queues](https://github.com/Akashsky123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Akashsky123/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Akashsky123/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
