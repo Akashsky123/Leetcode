@@ -101,6 +101,7 @@ All Leetcode Question
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1856-maximum-subarray-min-product](https://github.com/Akashsky123/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Akashsky123/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -228,6 +229,7 @@ All Leetcode Question
 | [0238-product-of-array-except-self](https://github.com/Akashsky123/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsky123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1856-maximum-subarray-min-product](https://github.com/Akashsky123/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +270,7 @@ All Leetcode Question
 | [0225-implement-stack-using-queues](https://github.com/Akashsky123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Akashsky123/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Akashsky123/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1856-maximum-subarray-min-product](https://github.com/Akashsky123/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akashsky123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -275,6 +278,7 @@ All Leetcode Question
 | [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akashsky123/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Akashsky123/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1856-maximum-subarray-min-product](https://github.com/Akashsky123/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 ## Simulation
 |  |
 | ------- |
@@ -358,4 +362,8 @@ All Leetcode Question
 | [0232-implement-queue-using-stacks](https://github.com/Akashsky123/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akashsky123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Akashsky123/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/Akashsky123/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
