@@ -100,6 +100,7 @@ All Leetcode Question
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Akashsky123/Leetcode/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1856-maximum-subarray-min-product](https://github.com/Akashsky123/Leetcode/tree/master/1856-maximum-subarray-min-product) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -162,6 +163,7 @@ All Leetcode Question
 | [0312-burst-balloons](https://github.com/Akashsky123/Leetcode/tree/master/0312-burst-balloons) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Akashsky123/Leetcode/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
@@ -170,6 +172,7 @@ All Leetcode Question
 | [0050-powx-n](https://github.com/Akashsky123/Leetcode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/Akashsky123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0415-add-strings](https://github.com/Akashsky123/Leetcode/tree/master/0415-add-strings) |
+| [1563-stone-game-v](https://github.com/Akashsky123/Leetcode/tree/master/1563-stone-game-v) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -366,4 +369,8 @@ All Leetcode Question
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/Akashsky123/Leetcode/tree/master/1856-maximum-subarray-min-product) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Akashsky123/Leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
