@@ -46,6 +46,7 @@ All Leetcode Question
 | [0443-string-compression](https://github.com/Akashsky123/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Akashsky123/Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Akashsky123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/Akashsky123/Leetcode/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,6 +178,7 @@ All Leetcode Question
 | [0096-unique-binary-search-trees](https://github.com/Akashsky123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0415-add-strings](https://github.com/Akashsky123/Leetcode/tree/master/0415-add-strings) |
 | [1563-stone-game-v](https://github.com/Akashsky123/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Akashsky123/Leetcode/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akashsky123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akashsky123/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
@@ -215,6 +217,7 @@ All Leetcode Question
 | [0044-wildcard-matching](https://github.com/Akashsky123/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Akashsky123/Leetcode/tree/master/0135-candy) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1927-sum-game](https://github.com/Akashsky123/Leetcode/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -381,6 +384,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Akashsky123/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Akashsky123/Leetcode/tree/master/1927-sum-game) |
 ## Combinatorics
 |  |
 | ------- |
