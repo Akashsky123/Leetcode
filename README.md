@@ -143,6 +143,7 @@ All Leetcode Question
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@ All Leetcode Question
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ All Leetcode Question
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akashsky123/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/Akashsky123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
@@ -286,6 +289,7 @@ All Leetcode Question
 | [0042-trapping-rain-water](https://github.com/Akashsky123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Akashsky123/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Akashsky123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Akashsky123/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Akashsky123/Leetcode/tree/master/0496-next-greater-element-i) |
