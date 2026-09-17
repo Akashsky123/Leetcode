@@ -140,6 +140,7 @@ All Leetcode Question
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Akashsky123/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Akashsky123/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -151,6 +152,7 @@ All Leetcode Question
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Akashsky123/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Akashsky123/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -160,6 +162,7 @@ All Leetcode Question
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akashsky123/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Akashsky123/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -284,6 +287,7 @@ All Leetcode Question
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Akashsky123/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akashsky123/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akashsky123/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
