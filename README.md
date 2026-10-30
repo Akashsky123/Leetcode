@@ -102,6 +102,7 @@ All Leetcode Question
 | [0912-sort-an-array](https://github.com/Akashsky123/Leetcode/tree/master/0912-sort-an-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Akashsky123/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Akashsky123/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akashsky123/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Akashsky123/Leetcode/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -271,6 +272,7 @@ All Leetcode Question
 | [0540-single-element-in-a-sorted-array](https://github.com/Akashsky123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akashsky123/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1539-kth-missing-positive-number](https://github.com/Akashsky123/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akashsky123/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Akashsky123/Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Akashsky123/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
