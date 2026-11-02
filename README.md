@@ -438,4 +438,8 @@ All Leetcode Question
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akashsky123/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Akashsky123/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
